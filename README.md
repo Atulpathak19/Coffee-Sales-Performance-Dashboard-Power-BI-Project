@@ -1,5 +1,6 @@
 # Coffee-Sales-Performance-Dashboard-Power-BI-Project
 This project showcases an interactive Coffee Sales Revenue & Financial Performance Dashboard created in Tableau, along with a detailed PowerPoint summary that highlights key findings and visual insights. The dashboard analyzes crucial sales metrics, including total orders, revenue, quantity sold, and average order value. It presents dynamic visualizations of monthly revenue trends, daily and hourly sales patterns, top-performing store locations, quantity sold by size, and top product categories. Interactive filters enable users to slice and explore data by store, product, size, and day. The included PowerPoint presentation summarizes the main insights, making it easy to communicate findings with stakeholders. This project is ideal for coffee retailers, sales managers, and business analysts who need clear, actionable insights for data-driven decision-making.
+
 🛠️ Steps to Build This Project:
 1️⃣ Data Preparation:
 
